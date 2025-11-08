@@ -11,6 +11,7 @@ To learn and implement first Django project
 Visual Code Studio
 
 Python 3.13.7
+Django Project
 
 
 # Useful Websites
