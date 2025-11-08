@@ -4,7 +4,7 @@ Python Hello world example project
 
 To learn and implement first Django project
 
-[Software Demo Video](http://fr.youtube.com/micrandr)
+[Demo Video Link](http://fr.youtube.com/micrandr)
 
 # Development Environment
 
